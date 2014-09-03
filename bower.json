@@ -1,0 +1,11 @@
+{
+	"name" : "angular-tes-app",
+	"description" : "app to get started learning angular",
+	"version" : "0.0.1",
+	"homepage" : "",
+	"license" : "MIT",
+	"dependencies" : {
+		"angular": "1.2.x",
+		"angular-route": "~1.2.x"
+	}
+}
